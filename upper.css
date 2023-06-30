@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    margin-top: -10px;
+    background-color: white;
+    border: 0.1px solid;
+    border-color: grey;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.logo{
+    width: 1000px;
+    padding-left: 200px;
+    height: 200px;
+    margin-top: -19px;   
+}
